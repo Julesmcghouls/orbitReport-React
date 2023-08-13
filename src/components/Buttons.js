@@ -1,3 +1,4 @@
+import "./styles.css";
 import satData from "./satData";
 
 const Buttons = () => {
