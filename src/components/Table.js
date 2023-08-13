@@ -3,7 +3,7 @@ import "./styling.css";
 const Table = ({ sat }) => {
   return (
       <table>
-       <thead>
+      <thead>
         <tr>
           <th>Name</th>
           <th>Type of Satellite</th>
